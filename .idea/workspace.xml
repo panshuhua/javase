@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bec1445b-29b6-42c7-aaf8-b6ac1001b487" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/list/entity/Score.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/list/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/list/entity/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/IntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/list/test/IntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/list/test/ListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +30,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.clone" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\psh\code\javase\src\main\java\com\list\test" />
       <recent name="C:\psh\code\javase\src\main\java\com\list\entity" />
@@ -53,13 +51,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListTest (1)">
-    <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.IntegerTest" />
+  <component name="RunManager" selected="Application.ShallowCopy">
+    <configuration name="DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.clone.DeepCopy" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +91,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuoteCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.clone.QuoteCopy" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShallowCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.clone.ShallowCopy" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShallowCopy" />
+        <item itemvalue="Application.DeepCopy" />
+        <item itemvalue="Application.QuoteCopy" />
         <item itemvalue="Application.ListTest (1)" />
         <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.IntegerTest" />
       </list>
     </recent_temporary>
   </component>
