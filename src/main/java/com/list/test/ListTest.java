@@ -1,7 +1,7 @@
-package com.test;
+package com.list.test;
 
-import com.entity.Student;
-import com.entity.Subject;
+import com.list.entity.Student;
+import com.list.entity.Subject;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package com.test;
+package com.list.test;
 
 public class IntegerTest {
 

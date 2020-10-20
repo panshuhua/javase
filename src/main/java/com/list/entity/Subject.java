@@ -1,4 +1,4 @@
-package com.entity;
+package com.list.entity;
 
 public class Subject implements Cloneable{
 
