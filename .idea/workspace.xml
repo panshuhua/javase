@@ -24,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="C:/androidSDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/list/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CopyOnWriteArrayListTest">
+  <component name="RunManager" selected="Application.DalayQueueTest">
     <configuration name="CopyOnWriteArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.list.test.CopyOnWriteArrayListTest" />
       <module name="javase" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.clone.DeepCopy" />
+    <configuration name="DalayQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.queue.DalayQueueTest" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.clone.*" />
+          <option name="PATTERN" value="com.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuoteCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.clone.QuoteCopy" />
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.queue.PriorityQueueTest" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.clone.*" />
+          <option name="PATTERN" value="com.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DalayQueueTest" />
+        <item itemvalue="Application.PriorityQueueTest" />
         <item itemvalue="Application.CopyOnWriteArrayListTest" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.ShallowCopy" />
-        <item itemvalue="Application.DeepCopy" />
-        <item itemvalue="Application.QuoteCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +160,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/entity/Student.java</url>
           <line>23</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/queue/PriorityQueueTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/PriorityQueue.java</url>
+          <line>586</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/PriorityQueue.java</url>
+          <line>685</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
